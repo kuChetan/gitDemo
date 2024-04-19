@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hii kumar sahu
-=======
-Hii kumar sahu chetan
->>>>>>> 044f7ad76ea9fa4680d32ec7428ff4af21cefc89
+This message is from person 1
