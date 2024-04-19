@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This message is from person 1 by now
+=======
+changes from person 2
+>>>>>>> 3ca38bcc52f6f3cbee8d6431d7f36485a43781aa
